@@ -29,5 +29,5 @@ I created this software so that I know that my ide works, and I can have it sync
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Set up a Git Repository](https://www.jetbrains.com/help/pycharm/set-up-a-git-repository.html)
+* [Git | Pycharm](https://www.jetbrains.com/help/pycharm/using-git-integration.html)
